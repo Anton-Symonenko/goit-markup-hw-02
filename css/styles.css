@@ -1,8 +1,19 @@
 body {
-    font-family: 'Roboto', 'cursive';
+    font-family: Roboto, sans-serif;
     color: #434455;
     background-color: #fcfcfc;
+    
 }
 ul {
     list-style-type: none;}
+
+    .logo {
+        font-family: Raleway;
+        font-weight: 700;
+        font-size: 18px;
+        font-style: Bold;
+        line-height: 21px;
+        letter-spacing: 3%;
+        color: #2E2F42;
+    }
     
