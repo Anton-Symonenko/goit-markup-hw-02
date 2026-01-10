@@ -30,7 +30,7 @@ span{
         line-height: 24px;
         letter-spacing: 2%;
     }
-.main-nav .nav-link .link {
+.nav-link{
         color: #2E2F42;
         text-decoration: none;
      }
