@@ -16,4 +16,28 @@ ul {
         letter-spacing: 3%;
         color: #2E2F42;
     }
-    
+    span{
+        color: #4D5AE5;
+    }
+    .main-nav {
+        font-family: Roboto;
+            font-weight: 500;
+            font-size: 16px;
+            font-style: Medium;
+            line-height: 24px;
+            letter-spacing: 2%;
+            color: #2E2F42;
+            }
+     .main-nav a:hover {
+        color: #404BBF;
+
+    }
+    .address{
+        font-family: Roboto;
+            font-weight: 400;
+            font-size: 16px;
+            font-style: Regular;
+            line-height: 24px;
+            letter-spacing: 2%;
+            color: #434455;
+    }
