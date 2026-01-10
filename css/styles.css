@@ -52,3 +52,27 @@ span{
 .address a:hover {
         color: #404BBF;
     }
+    .address-link {
+        color: #2E2F42;
+        text-decoration: none;
+    }
+.main-hero {
+        font-family: Roboto;
+        font-weight: 700;
+        font-size: 56px;
+        font-style: Bold;
+        line-height: 60px;
+        letter-spacing: 2%;
+        color: #ffffff;
+        background-color: #2E2F42;
+}
+.main-hero-button {
+    font-family: Roboto;
+        font-weight: 500;
+        font-size: 16px;
+        font-style: Medium;
+        line-height: 24px;
+        letter-spacing: 4%;
+        color: #ffffff;
+        background-color: #4D5AE5
+}
