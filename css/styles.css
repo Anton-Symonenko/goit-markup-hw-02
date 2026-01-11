@@ -103,7 +103,7 @@ span{
 }
 
 .img-mark-guerrero {
-    
+
 }
 
 .main-tom-ford {
@@ -116,4 +116,19 @@ span{
 
 .main-daniel-wilson {
     background-color: #ffffff;
+}
+
+.footer {
+    background-color: #2E2F42;
+    color: #ffffff;
+}
+.logo-footer {
+    font-family: Raleway;
+        font-weight: 700;
+        font-size: 18px;
+        font-style: Bold;
+        line-height: 21px;
+        letter-spacing: 3%;
+        color: #ffffff;
+        text-decoration: none;
 }
