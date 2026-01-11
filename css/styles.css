@@ -94,15 +94,13 @@ span{
 }
 .our-team {
     background-color: #F4F4FD;
+}
+.text-our-team {
     text-align: center;
 }
 
-
 .main-mark-guerrero {
     background-color: #ffffff;
-}
-
-.img-mark-guerrero {
 
 }
 
@@ -116,6 +114,14 @@ span{
 
 .main-daniel-wilson {
     background-color: #ffffff;
+}
+
+.name-worker, .profesion{
+    text-align: center;
+}
+
+.our-portfolio{
+    text-align: center;
 }
 
 .footer {
