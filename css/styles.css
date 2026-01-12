@@ -41,7 +41,7 @@ ul {
         text-decoration: none;
         text-transform: uppercase;
     }
-span{
+.span-logo-top{
         color: #4D5AE5;
     }
     
@@ -106,17 +106,15 @@ span{
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #ffffff;
-        background-color: #4D5AE5
-        
+        background-color: #4D5AE5;
+        cursor: pointer;
 }
 .main-hero-button:hover {
     background-color: #404BBF;
-    cursor: pointer;
 }
 
 .main-hero-button:focus {
     background-color: #404BBF;
-    cursor: pointer;
 }
 
 .our-team {
@@ -205,6 +203,11 @@ span{
         text-decoration: none;
         text-transform: uppercase;
 }
+
+.span-logo-bottom {
+    color: #4D5AE5;
+}
+
 .text-footer{
     color: #F4F4FD;
     font-weight: 400;
